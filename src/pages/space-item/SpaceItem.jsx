@@ -11,7 +11,7 @@ const SpaceItem = ( { item } ) => {
 
       <p>{item.explanation}</p>
 
-      <button onClick={handleGoBack}>Go Back</button>
+      {/* <button onClick={handleGoBack}>Go Back</button> */}
     </div>
   )
 }
